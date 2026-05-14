@@ -1,7 +1,9 @@
 streamlit
-streamlit-webrtc
+streamlit-webrtc==0.47.1
 ultralytics
 opencv-python-headless
 av
 numpy
 aiortc
+aioice
+tornado
